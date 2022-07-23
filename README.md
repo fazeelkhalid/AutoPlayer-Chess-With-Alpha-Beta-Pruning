@@ -13,7 +13,7 @@ given time consists of information about player turn (i.e. an enumeration called
 encoded as shown below. 
 
 
-![alt text](https://github.com/fazeelkhalid/Chess-With-Alpha-Beta-Pruning/blob/main/Images/board1.png)
+![alt text](https://github.com/fazeelkhalid/AutoPlayer-Chess-With-Alpha-Beta-Pruning/blob/main/Images/board1.png)
 
 
 

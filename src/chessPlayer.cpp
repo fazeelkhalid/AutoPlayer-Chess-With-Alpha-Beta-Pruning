@@ -1,3 +1,6 @@
 #include "chessPlayer.h"
 
-#include<iostream>
+#include<iostream.h>
+
+string get_player name(){
+}

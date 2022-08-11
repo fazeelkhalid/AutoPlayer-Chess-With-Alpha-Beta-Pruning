@@ -3,9 +3,6 @@
 #include "..\\include\\autoPlayer.h"
 #include <iostream>
 
-dsadsaddasdsadasdsadsaddsaddsasasdsasdaasddsadsads
-dsad
-dsdsa
 
 chess::chess(){
     G = new gameState();

@@ -5,7 +5,7 @@
 
 dsadsaddasdsa
 dsadsadasdsa
-sdadsdsa
+sdadsdsalkhao3eh23
 
 chess::chess(){
     G = new gameState();

@@ -4,8 +4,7 @@
 #include <iostream>
 
 dsadsaddasdsa
-dsadsadasdsadasdsaq3212dasadsad
-sdadsdsalkhao3eh23
+
 
 chess::chess(){
     G = new gameState();

@@ -3,6 +3,8 @@
 #include "..\\include\\autoPlayer.h"
 #include <iostream>
 
+dsadsad
+
 chess::chess(){
     G = new gameState();
     Players[0] = new humanPlayer("White Player Name", White);

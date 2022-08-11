@@ -3,7 +3,7 @@
 #include "..\\include\\autoPlayer.h"
 #include <iostream>
 
-dsadsaddasdsadasdsadsaddsaddsasasdsasda
+dsadsaddasdsadasdsadsaddsaddsasasdsasdaasd
 
 
 chess::chess(){
